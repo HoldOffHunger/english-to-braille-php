@@ -2,7 +2,7 @@
 
 Convert your English to Braille in PHP.
 
-<img src="image/braille2.jpg" width="600">
+<img src="image/braille2.jpg" width="900">
 
 ## What YOU Do
 
